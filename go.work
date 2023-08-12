@@ -6,4 +6,5 @@ use (
 	./05-pointer
 	./06-arrays
 	./07-slice
+	./08-maps
 )

@@ -7,4 +7,6 @@ use (
 	./06-arrays
 	./07-slice
 	./08-maps
+	./12-loop_goto
+	./13-function
 )
